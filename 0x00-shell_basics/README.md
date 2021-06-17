@@ -1,0 +1,1 @@
+Script is a program that can be used to record an entire shell session and store it in a file.
